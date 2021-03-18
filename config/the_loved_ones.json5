@@ -1,0 +1,14 @@
+{
+	/* 
+	   Should pets be damaged by other players when PVP is enabled?
+	*/
+	"petsDamagePVP": true,
+	/* 
+	   Should pets be damaged by other players when PVP is disabled?
+	*/
+	"petsDamageNoPVP": false,
+	/* 
+	   Should pets be damaged by other players when playing on LAN?
+	*/
+	"petsDamageOnLAN": false
+}

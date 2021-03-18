@@ -1,0 +1,326 @@
+{ 
+	/* 
+	   
+	   ***********************
+	   Dimensions
+	   ***********************
+	*/
+	"enableMining": true,
+	"enableHunting": true,
+	"enableCaving": true,
+	"enableNethering": true,
+	/* 
+	   
+	   ***********************
+	   Enable-Disable Rings
+	   ***********************
+	*/
+	"enableRingAbove": true,
+	"enableRingAirWalking": true,
+	"enableRingAscent": true,
+	"enableRingAttraction": true,
+	"enableRingBlink": true,
+	"enableRingCuring": true,
+	"enableRingDismissal": true,
+	"enableRingEnderchest": true,
+	"enableRingExplorer": true,
+	"enableRingFarmer": true,
+	"enableRingHaste": true,
+	"enableRingMiner": true,
+	"enableRingPhoenix": true,
+	"enableRingRepair": true,
+	"enableRingReturn": true,
+	"enableRingStealth": true,
+	"enableRingSunshine": true,
+	"enableRingSwiftness": true,
+	"enableRingTeleport": true,
+	"enableRingTraveler": true,
+	"enableRingVision": true,
+	"enableRingVoid": true,
+	/* 
+	   
+	   ***********************
+	   Enable-Disable Staffs
+	   ***********************
+	*/
+	"enableStaffClearing": true,
+	"enableStaffEnsnarement": true,
+	"enableStaffFarmer": true,
+	"enableStaffNature": true,
+	"enableStaffSniper": true,
+	"enableStaffStars": true,
+	"enableStaffTransformation": true,
+	/* 
+	   
+	   ***********************
+	   Enable-Disable Medallions
+	   ***********************
+	*/
+	"enableMedallionBreathing": true,
+	"enableMedallionLesserHealing": true,
+	"enableMedallionHealing": true,
+	"enableMedallionGreaterHealing": true,
+	"enableMedallionExp": true,
+	"enableMedallionHero": true,
+	"enableMedallionSea": true,
+	/* 
+	   
+	   ***********************
+	   Enable-Disable Blocks
+	   ***********************
+	*/
+	"enableHealer": true,
+	"enableDefender": true,
+	"enableProtector": true,
+	"enableMaturator": true,
+	/* 
+	   
+	   ***********************
+	   Ring Settings
+	   ***********************
+	*/
+	"ringAttractionRange": 8,
+	"ringMinerCooldown": 120,
+	"ringMinerRange": 5,
+	"ringMinerVerticalRange": 4,
+	"ringMinerDelayedBreak": false,
+	"ringBlinkDistance": 100,
+	"ringBlinkCooldown": 120,
+	"ringExplorerCooldown": 240,
+	"ringExplorerMin": 5000,
+	"ringExplorerMax": 20000,
+	"ringFarmerRange": 10,
+	"ringFarmerInterval": 180,
+	"ringAboveCooldown": 120,
+	"ringRepairInterval": 120,
+	"ringDismissalRange": 8.0,
+	"ringDismissalVelocity": 0.2,
+	"ringDismissalLift": 1.5,
+	"ringTravelerLaunch": 3.0,
+	"ringTravelerCruising": 0.2,
+	/* 
+	   
+	   ***********************
+	   Medallion Settings
+	   ***********************
+	*/
+	"medallionExpMultiplier": 5,
+	"medallionLesserHealingAmount": 1,
+	"medallionHealingAmount": 2,
+	"medallionGreaterHealingAmount": 3,
+	"medallionBreathingWaterCheck": true,
+	/* 
+	   
+	   ***********************
+	   Staff Settings
+	   ***********************
+	*/
+	"staffTransformationDurability": 1025,
+	"staffClearingRange": 11,
+	"staffSniperCooldown": 240,
+	"staffFarmerRange": 10,
+	"staffFarmerInterval": 180,
+	"staffFarmerReplant": true,
+	"staffEnsnarementHotileMobs": false,
+	/* 
+	   
+	   ***********************
+	   Defender Settings
+	   ***********************
+	*/
+	"defenseRadius": 16,
+	"defenseLevel": 1,
+	/* 
+	   
+	   ***********************
+	   Protector Settings
+	   ***********************
+	*/
+	"attackRadius": 16,
+	"damageAmount": 3,
+	/* 
+	   
+	   ***********************
+	   Healer Settings
+	   ***********************
+	*/
+	"healthRadius": 16,
+	"healthLevel": 0,
+	"healthYellowHearts": 20.0,
+	/* 
+	   
+	   ***********************
+	   Maturator Settings
+	   ***********************
+	*/
+	"growthInterval": 360,
+	"growthRange": 16,
+	/* 
+	   
+	   ***********************
+	   Tools
+	   ***********************
+	*/
+	"enableSniperSowrd": true,
+	"swordSniperCooldoown": 10,
+	"enableEndHammer5x5": true,
+	"enableEndExcavator5x5": true,
+	"enableTreeAxe": true,
+	"treeAxeDelayTick": 3,
+	"enableHammers": true,
+	"enableExcavators": true,
+	"enablePaxels": true,
+	/* 
+	   
+	   
+	   ******************************
+	   Bow Durability
+	   ******************************
+	*/
+	"gobberBowDurability": 3800,
+	"gobberNetherBowDurability": 5200,
+	"gobberEndBowDurability": 8000,
+	/* 
+	   
+	   
+	   ******************************
+	   Gobber Tool Material Stats
+	   ******************************
+	*/
+	"gobberDurability": 3800,
+	"gobberMiningSpeed": 9.0,
+	"gobberAttackDamage": 9.0,
+	"gobberMiningLevel": 4,
+	"gobberEnchantability": 20,
+	/* 
+	   
+	   
+	   ******************************
+	   Gobber Nether Tool Material Stats
+	   ******************************
+	*/
+	"gobberNetherDurability": 5200,
+	"gobberNetherMiningSpeed": 12.0,
+	"gobberNetherAttackDamage": 9.0,
+	"gobberNetherMiningLevel": 5,
+	"gobberNetherEnchantability": 25,
+	/* 
+	   
+	   
+	   ******************************
+	   Gobber End Tool Material Stats
+	   ******************************
+	*/
+	"unbreakableEndTools": true,
+	"gobberEndDurability": 8000,
+	"gobberEndMiningSpeed": 14.0,
+	"gobberEndAttackDamage": 9.0,
+	"gobberEndMiningLevel": 5,
+	"gobberEndEnchantability": 30,
+	/* 
+	   
+	   ***********************
+	   Armors
+	   ***********************
+	*/
+	"enableGobberPerks": true,
+	"enableNetherPerks": true,
+	"enableEndPerks": true,
+	"enablePhantomProtection": true,
+	"enableDragonPerks": true,
+	/* 
+	   
+	   
+	   ******************************
+	   Gobber Armor Material Stats
+	   ******************************
+	*/
+	"gobberDurabilityMultiplier": 71,
+	"gobberArmorEnchantability": 25,
+	"gobberToughness": 2.5,
+	"gobberKnockbackResistance": 0.10000000149011612,
+	/* 
+	   
+	   
+	   ******************************
+	   Gobber Nether Armor Material Stats
+	   ******************************
+	*/
+	"gobberNetherDurabilityMultiplier": 83,
+	"gobberNetherArmorEnchantability": 30,
+	"gobberNetherToughness": 2.75,
+	"gobberNetherKnockbackResistance": 0.10000000149011612,
+	/* 
+	   
+	   
+	   ******************************
+	   Gobber End Armor Material Stats
+	   ******************************
+	*/
+	"unbreakableEndArmor": true,
+	"gobberEndDurabilityMultiplier": 100,
+	"gobberEndArmorEnchantability": 30,
+	"gobberEndToughness": 3.0,
+	"gobberEndKnockbackResistance": 0.30000001192092896,
+	/* 
+	   
+	   
+	   ******************************
+	   Dragon Armor Material Stats
+	   ******************************
+	*/
+	"enableFlight": true,
+	"unbreakableDragonArmor": true,
+	"gobberDragonDurabilityMultiplier": 100,
+	"gobberDragonArmorEnchantability": 30,
+	"gobberDragonToughness": 3.0,
+	"gobberDragonKnockbackResistance": 1.0,
+	"gobberDragonArmorHealingPoints": 4,
+	/* 
+	   
+	   ***********************
+	   Enchantments
+	   ***********************
+	*/
+	"enableSmithblade": true,
+	"smithbladeAttackAmount": 2,
+	"smithbladeMaxLevel": 5,
+	"enableRebuffing": true,
+	"rebuffingMaxLevel": 3,
+	"enableFasterObsidian": true,
+	"enableUntouchable": true,
+	"untouchableDamage": 8,
+	"untouchableMaxLevel": 3,
+	"enableQuickUse": true,
+	"enableBlinders": true,
+	"enableSolidFooting": true,
+	/* 
+	   
+	   ***********************
+	   Status Effects
+	   ***********************
+	*/
+	"KnowledgeBoostXPPerTick": 1,
+	/* 
+	   
+	   ***********************
+	   Loot Chests
+	   ***********************
+	*/
+	"lootEnable": true,
+	"lootChance": 0.03999999910593033,
+	/* 
+	   
+	   ***********************
+	   Special Item
+	   
+	   Item provides a one-time random teleport
+	   and is consumed after successful teleport.
+	   Min/Max range from world spawn to search
+	   Item does NOT have a standard recipe
+	   ***********************
+	*/
+	"enableSpecialItem": true,
+	"specialItemMin": 20000,
+	"specialItemMax": 75000
+}

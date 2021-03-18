@@ -1,0 +1,17 @@
+{
+  "netherToolAttackDamage": 2.0,
+  "netherToolMiningSpeed": 8.0,
+  "netherToolDurability": 381,
+  "netherToolEnchantability": 15,
+  "netherArmorDurabilityMultiplier": 20,
+  "vibraniumToolAttackDamage": 8.0,
+  "vibraniumToolMiningSpeed": 17.0,
+  "vibraniumToolDurability": 2990,
+  "vibraniumToolEnchantability": 12,
+  "vibraniumArmorDurabilityMultiplier": 165,
+  "adamantiumToolAttackDamage": 13.0,
+  "adamantiumToolMiningSpeed": 25.0,
+  "adamantiumToolDurability": 4280,
+  "adamantiumToolEnchantability": 10,
+  "adamantiumArmorDurabilityMultiplier": 220
+}

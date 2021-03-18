@@ -1,0 +1,882 @@
+{
+  "starrite": {
+    "#mythicmetals:starrite_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:starrite_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:starrite_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:starrite_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:starrite_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "steel": {
+    "#c:steel_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:steel_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:steel_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:steel_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "tantalite": {
+    "#c:tantalite_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:tantalite_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:tantalite_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:tantalite_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:tantalite_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "carmot": {
+    "#mythicmetals:carmot_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:carmot_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:carmot_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:carmot_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:carmot_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "runite": {
+    "#mythicmetals:runite_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:runite_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:runite_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:runite_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:runite_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "discordium": {
+    "#mythicmetals:discordium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:discordium_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:discordium_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:discordium_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "unobtainium": {
+    "#mythicmetals:unobtainium_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:unobtainium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:unobtainium_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:unobtainium_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:unobtainium_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "argonium": {
+    "#mythicmetals:argonium_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:argonium_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:argonium_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:argonium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "aetherium": {
+    "#mythicmetals:aetherium_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:aetherium_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:aetherium_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:aetherium_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:aetherium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "manganese": {
+    "#c:manganese_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:manganese_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:manganese_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:manganese_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:manganese_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "metallurgium": {
+    "#mythicmetals:metallurgium_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:metallurgium_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:metallurgium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:metallurgium_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "netherite": {
+    "minecraft:netherite_block": {
+      "worth": 81,
+      "can_return": true
+    },
+    "minecraft:netherite_ingot": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "gold": {
+    "minecraft:gold_ingot": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:gold_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:gold_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:gold_nuggets": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:gold_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:gold_nugget": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:gold_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "minecraft:gold_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "adamantite": {
+    "#c:adamantite_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:adamantite_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:adamantite_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:adamantite_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:adamantite_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "platinum": {
+    "#c:platinum_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:platinum_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:platinum_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:platinum_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:platinum_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "prometheum": {
+    "#mythicmetals:prometheum_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:prometheum_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:prometheum_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:prometheum_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:prometheum_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "celestium": {
+    "#mythicmetals:celestium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:celestium_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:celestium_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:celestium_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "tin": {
+    "#c:tin_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:tin_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:tin_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:tin_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:tin_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "copper": {
+    "#c:copper_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:copper_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:copper_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:copper_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:copper_ores": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "lapis": {
+    "minecraft:lapis_block": {
+      "worth": 18,
+      "can_return": true
+    },
+    "minecraft:lapis_lazuli": {
+      "worth": 2,
+      "can_return": true
+    }
+  },
+  "zinc": {
+    "#c:zinc_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:zinc_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:zinc_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:zinc_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:zinc_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "ur": {
+    "#mythicmetals:ur_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:ur_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:ur_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:ur_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:ur_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "mythril": {
+    "#c:mythril_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:mythril_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:mythril_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:mythril_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:mythril_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "vermiculite": {
+    "#c:vermiculite_blocks": {
+      "worth": 81,
+      "can_return": false
+    },
+    "#c:vermiculite": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "electrum": {
+    "#c:electrum_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:electrum_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:electrum_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:electrum_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "nether_quartz": {
+    "minecraft:quartz": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:quartz_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "quadrillum": {
+    "#mythicmetals:quadrillum_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:quadrillum_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:quadrillum_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:quadrillum_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:quadrillum_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "quicksilver": {
+    "#c:quicksilver_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:quicksilver_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:quicksilver_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:quicksilver_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "hallowed": {
+    "#mythicmetals:hallowed_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:hallowed_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:hallowed_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:hallowed_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "osmium": {
+    "#c:osmium_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:osmium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:osmium_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:osmium_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:osmium_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "brass": {
+    "#c:brass_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:brass_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:brass_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:brass_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "banglum": {
+    "#mythicmetals:banglum_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:banglum_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:banglum_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:banglum_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:banglum_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "truesilver": {
+    "#mythicmetals:truesilver_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:truesilver_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:truesilver_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:truesilver_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:truesilver_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "aquarium": {
+    "#mythicmetals:aquarium_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:aquarium_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:aquarium_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:aquarium_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:aquarium_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "gravel": {
+    "minecraft:gravel": {
+      "worth": 18,
+      "can_return": false
+    }
+  },
+  "etherite": {
+    "#mythicmetals:etherite_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:etherite_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:etherite_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:etherite_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "orichalcum": {
+    "#c:orichalcum_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:orichalcum_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:orichalcum_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:orichalcum_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:orichalcum_ores": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "slowsilver": {
+    "#mythicmetals:slowsilver_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:slowsilver_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:slowsilver_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:slowsilver_nuggets": {
+      "worth": 1,
+      "can_return": true
+    }
+  },
+  "midas_gold": {
+    "#mythicmetals:midas_gold_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:midas_gold_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:midas_gold_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:midas_gold_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:midas_gold_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "durasteel": {
+    "#mythicmetals:durasteel_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:durasteel_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:durasteel_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:durasteel_blocks": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "stormyx": {
+    "#mythicmetals:stormyx_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#mythicmetals:stormyx_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:stormyx_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:stormyx_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:stormyx_ores": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "iron": {
+    "minecraft:iron_nugget": {
+      "worth": 1,
+      "can_return": true
+    },
+    "minecraft:iron_ingot": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:iron_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "coal": {
+    "minecraft:coal_block": {
+      "worth": 81,
+      "can_return": true
+    },
+    "minecraft:coal": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "silver": {
+    "#c:silver_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#c:silver_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#c:silver_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#c:silver_ingots": {
+      "worth": 9,
+      "can_return": true
+    },
+    "#c:silver_dusts": {
+      "worth": 9,
+      "can_return": false
+    }
+  },
+  "kyber": {
+    "#mythicmetals:kyber_dusts": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:kyber_nuggets": {
+      "worth": 1,
+      "can_return": true
+    },
+    "#mythicmetals:kyber_ores": {
+      "worth": 9,
+      "can_return": false
+    },
+    "#mythicmetals:kyber_blocks": {
+      "worth": 81,
+      "can_return": true
+    },
+    "#mythicmetals:kyber_ingots": {
+      "worth": 9,
+      "can_return": true
+    }
+  },
+  "redstone": {
+    "minecraft:redstone_block": {
+      "worth": 18,
+      "can_return": true
+    },
+    "minecraft:redstone": {
+      "worth": 2,
+      "can_return": true
+    }
+  }
+}

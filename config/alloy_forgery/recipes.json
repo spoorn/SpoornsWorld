@@ -1,0 +1,450 @@
+{
+  "recipes": [
+    {
+      "input": {
+        "copper": 18,
+        "zinc": 9
+      },
+      "output": {
+        "item": "#c:brass_ingots",
+        "amount": 2
+      },
+      "heat_per_tick": 10,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:orichalcum_ore": 2
+      },
+      "output": {
+        "item": "#c:orichalcum_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 16,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "vermiculite": 36,
+        "aetherium": 9
+      },
+      "output": {
+        "item": "mythicmetals:etherite_ingot",
+        "amount": 1
+      },
+      "heat_per_tick": 10,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "c#:tin_ores": 2
+      },
+      "output": {
+        "item": "#c:tin_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "gold": 9,
+        "silver": 9
+      },
+      "output": {
+        "item": "#c:electrum_ingots",
+        "amount": 1
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:banglum_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:banglum_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:runite_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:runite_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "adamantite": 9,
+        "mythril": 9,
+        "orichalcum": 9
+      },
+      "output": {
+        "item": "mythicmetals:hallowed_ingot",
+        "amount": 1
+      },
+      "heat_per_tick": 15,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "mythril": 9,
+        "silver": 9
+      },
+      "output": {
+        "item": "mythicmetals:quicksilver_ingot",
+        "amount": 2
+      },
+      "heat_per_tick": 10,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "mythicmetals:adamantite_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:adamantite_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 16,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "mythicmetals:aquarium_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:aquarium_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:stormyx_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:stormyx_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "c#:tantalite_ores": 2
+      },
+      "output": {
+        "item": "#c:tantalite_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "#c:platinum_ores": 2
+      },
+      "output": {
+        "item": "#c:platinum_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "#c:zinc_ores": 2
+      },
+      "output": {
+        "item": "#c:zinc_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "gold": 9,
+        "midas_gold": 9
+      },
+      "output": {
+        "item": "mythicmetals:argonium_ingot",
+        "amount": 1
+      },
+      "heat_per_tick": 9,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "iron": 9,
+        "manganese": 9
+      },
+      "output": {
+        "item": "mythicmetals:steel_ingot",
+        "amount": 2
+      },
+      "heat_per_tick": 5,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:carmot_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:carmot_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:starrite_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:starrite_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "#c:copper_ores": 2
+      },
+      "output": {
+        "item": "#c:copper_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "tin": 9,
+        "copper": 18
+      },
+      "output": {
+        "item": "#c:bronze_ingots",
+        "amount": 2
+      },
+      "heat_per_tick": 10,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "quadrillum": 18,
+        "manganese": 9
+      },
+      "output": {
+        "item": "mythicmetals:durasteel_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 15,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "unobtainium": 9,
+        "hallowed": 9
+      },
+      "output": {
+        "item": "mythicmetals:metallurgium_ingot",
+        "amount": 1
+      },
+      "heat_per_tick": 15,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "#c:silver_ores": 2
+      },
+      "output": {
+        "item": "#c:silver_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "prometheum": 9,
+        "banglum": 9
+      },
+      "output": {
+        "item": "mythicmetals:discordium_ingot",
+        "amount": 2
+      },
+      "heat_per_tick": 10,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:prometheum_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:prometheum_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 10,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:ur_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:ur_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "mythicmetals:aetherium_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:aetherium_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 16,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "mythicmetals:mythril_ore": 2
+      },
+      "output": {
+        "item": "#c:mythril_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 16,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "mythicmetals:midas_gold_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:midas_gold_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "#c:osmium_ores": 2
+      },
+      "output": {
+        "item": "#c:osmium_ingots",
+        "amount": 3
+      },
+      "heat_per_tick": 10,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:kyber_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:kyber_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "minecraft:iron_ore": 2
+      },
+      "output": {
+        "item": "minecraft:iron_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 6,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "#minecraft:gold_ores": 2
+      },
+      "output": {
+        "item": "minecraft:gold_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 5,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "adamantite": 9,
+        "mythril": 9,
+        "orichalcum": 9,
+        "unobtainium": 9
+      },
+      "output": {
+        "item": "mythicmetals:metallurgium_ingot",
+        "amount": 1
+      },
+      "heat_per_tick": 20,
+      "required_tier": 2.0
+    },
+    {
+      "input": {
+        "gravel": 72,
+        "silver": 9
+      },
+      "output": {
+        "item": "mythicmetals:slowsilver_ingot",
+        "amount": 1
+      },
+      "heat_per_tick": 5,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:quadrillum_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:quadrillum_ingot",
+        "amount": 4
+      },
+      "heat_per_tick": 12,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "mythicmetals:manganese_ore": 2
+      },
+      "output": {
+        "item": "mythicmetals:manganese_ingot",
+        "amount": 3
+      },
+      "heat_per_tick": 8,
+      "required_tier": 1.0
+    },
+    {
+      "input": {
+        "starrite": 9,
+        "kyber": 18
+      },
+      "output": {
+        "item": "mythicmetals:celestium_ingot",
+        "amount": 2
+      },
+      "heat_per_tick": 10,
+      "required_tier": 2.0
+    }
+  ]
+}

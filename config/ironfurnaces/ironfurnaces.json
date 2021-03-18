@@ -1,0 +1,50 @@
+{
+  "rei": {
+    "enable_catalysts": {
+      "comment": " Enables or disables the recpie catalysts in REI.\n Default: true",
+      "value": true
+    },
+    "enable_click_area": {
+      "comment": " Enables or disables the click area in the furance gui for REI.\n Default: true",
+      "value": true
+    }
+  },
+  "speeds": {
+    "gold_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 120",
+      "value": 120
+    },
+    "diamond_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 80",
+      "value": 80
+    },
+    "iron_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 160",
+      "value": 160
+    },
+    "silver_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 140",
+      "value": 140
+    },
+    "crystal_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 40",
+      "value": 40
+    },
+    "emerald_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 40",
+      "value": 40
+    },
+    "obsidian_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 20",
+      "value": 20
+    },
+    "netherite_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 5",
+      "value": 5
+    },
+    "copper_furnace_speed": {
+      "comment": " Number of ticks to complete one smelting operation.\n 200 ticks is what a regular furnace takes.\n Default: 180",
+      "value": 180
+    }
+  }
+}

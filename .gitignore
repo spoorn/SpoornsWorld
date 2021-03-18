@@ -1,0 +1,24 @@
+.curseclient
+.fabric/
+.idea/
+.jumploader/
+.mixin.out/
+.vote2020_marker
+Spoorn's World.iml
+XaeroWaypoints/
+XaeroWaypoints_BACKUP062020/
+XaeroWorldMap/
+craftpresence/
+crash-reports/
+generated/
+logs/
+mods/
+options.txt
+patchouli_data.json
+realms_persistence.json
+saves/
+servers.dat
+servers.dat_old
+slotlock.json
+usercache.json
+vanguard-uninstaller.log
