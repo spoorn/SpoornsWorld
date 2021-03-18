@@ -68,7 +68,21 @@
 		"croptopia:cashew_chicken",
 		"croptopia:pecan_ice_cream",
 		"croptopia:candied_nuts",
-		"croptopia:nutty_cookie"
-
+		"croptopia:nutty_cookie",
+		"dishes:salami",
+		"dishes:raw_bacon",
+		"dishes:bacon",
+		"dishes:schnitzel",
+		"dishes:spaghetti_bolognese",
+		"dishes:steak",
+		"dishes:hamburger",
+		"dishes:chickenburger",
+		"dishes:cheeseburger",
+		"dishes:fishandchips",
+		"dishes:pizzasalami",
+		"dishes:pizzaham",
+		"dishes:pizzatuna",
+		"dishes:pizzabacon",
+		"vafoen:fried_egg"
 	]
 }

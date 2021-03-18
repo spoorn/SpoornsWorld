@@ -35,7 +35,20 @@
 		"gofish:grilled_blackstone_deluxe",
 		"croptopia:trail_mix",
 		"croptopia:nougat",
-		"croptopia:almond_brittle"
-
+		"croptopia:almond_brittle",
+		"moreberries:blue_berry_cake",
+		"moreberries:yellow_berry_cake",
+		"moreberries:orange_berry_cake",
+		"moreberries:purple_berry_cake",
+		"moreberries:green_berry_cake",
+		"moreberries:black_berry_cake",
+		"dishes:cheese_roll",
+		"dishes:cheese_slice",
+		"dishes:potatoeswithcurdcheese",
+		"dishes:hamburger",
+		"dishes:chickenburger",
+		"dishes:cheeseburger",
+		"ce_foodstuffs:cheese_wheel",
+		"ce_foodstuffs:cheese"
 	]
 }

@@ -6,6 +6,12 @@
 		"gofish:baked_seaweed",
 		"gofish:grilled_blackstone_deluxe",
 		"gofish:seaweed_eel",
-		"croptopia:cashew_chicken"
+		"croptopia:cashew_chicken",
+		"dishes:tomato",
+		"dishes:lettuce",
+		"ce_foodstuffs:lettuce",
+		"ce_foodstuffs:tomato",
+		"ce_foodstuffs:sandwich",
+		"ce_foodstuffs:salad"
 	]
 }
