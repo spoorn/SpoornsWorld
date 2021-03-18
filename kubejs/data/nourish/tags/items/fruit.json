@@ -7,6 +7,9 @@
 		"byg:crimson_berries",
 		"byg:nightshade_berries",
 		"byg:blueberries",
+		"byg:baobab_fruit",
+		"byg:cooked_joshua_fruit",
+		"byg:joshua_fruit",
 		"cinderscapes:bramble_berries",
 		"wild_explorer:blueberries",
 		"wild_explorer:banana",
@@ -58,6 +61,19 @@
 		"vafoen:sweet_berry_cookie",
 		"vafoen:apple_pie",
 		"vafoen:sweet_berry_pie",
-		"vafoen:pumpkin_soup"
+		"vafoen:pumpkin_soup",
+		"parakeetmod:apple_slice",
+		"ecotones:coconut",
+		"ecotones:hazelnut",
+		"desolation:cinderfruit",
+		"betternether:black_apple",
+		"betternether:stalagnate_bowl_apple",
+		"arstheurgia:dates",
+		"alaskanativecraft:blueberries",
+		"alaskanativecraft:cloudberries",
+		"alaskanativecraft:raspberries",
+		"alaskanativecraft:salmonberries",
+		"gobber2:gobber2_gooey_apple",
+		"gobber2:gobber2_gooey_apple_nether"
 	]
 }

@@ -12,6 +12,13 @@
 		"ce_foodstuffs:lettuce",
 		"ce_foodstuffs:tomato",
 		"ce_foodstuffs:sandwich",
-		"ce_foodstuffs:salad"
+		"ce_foodstuffs:salad",
+		"parakeetmod:carrot_slice",
+		"parakeetmod:beetroot_slice",
+		"biomemakeover:glowshroom_stew",
+		"betternether:stalagnate_bowl_wart",
+		"betternether:stalagnate_bowl_mushroom",
+		"betternether:hook_mushroom_cooked",
+		"arstheurgia:mud_blob"
 	]
 }

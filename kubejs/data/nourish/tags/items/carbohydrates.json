@@ -56,6 +56,10 @@
 		"ce_foodstuffs:sandwich",
 		"ce_foodstuffs:mashed_potatoes",
 		"vafoen:apple_pie",
-		"vafoen:sweet_berry_pie"
+		"vafoen:sweet_berry_pie",
+		"companion_bats:experience_pie",
+		"gobber2:gobber2_gooey_bread",
+		"gobber2:gobber2_gooey_beef_nether",
+		"gobber2:gobber2_gooey_beefstew_nether"
 	]
 }
