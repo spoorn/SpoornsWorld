@@ -22,3 +22,5 @@ servers.dat_old
 slotlock.json
 usercache.json
 vanguard-uninstaller.log
+minecraftinstance.json
+*.iml
