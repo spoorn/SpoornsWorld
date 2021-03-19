@@ -1,0 +1,35 @@
+version:2230
+autoJump:false
+enableVsync:false
+maxFps:260
+guiScale:2
+renderDistance:10
+amecsapi$key_modifier$key.mousewheelie.sort_inventory:
+key_key.mousewheelie.sort_inventory:key.keyboard.unknown
+amecsapi$key_modifier$key.inventorysorter.sort:
+key_key.inventorysorter.sort:key.keyboard.r
+amecsapi$key_modifier$key.crawl:
+key_key.crawl:key.keyboard.z
+amecsapi$key_modifier$key.okzoomer.zoom:
+key_key.okzoomer.zoom:key.keyboard.c
+amecsapi$key_modifier$key.slabhelper.halfmine:
+key_key.slabhelper.halfmine:key.keyboard.n
+amecsapi$key_modifier$key.indrev.modular:
+key_key.indrev.modular:key.keyboard.unknown
+key_key.iron-jetpacks.engine:key.keyboard.unknown
+key_key.iron-jetpacks.hover:key.keyboard.unknown
+key_key.iron-jetpacks.descend:key.keyboard.unknown
+key_Main Hub Screen:key.keyboard.k
+key_Choose Spell:key.keyboard.v
+key_Use Spell:key.keyboard.z
+key_key.stepup.toggle:key.keyboard.h
+key_key.rpgstats.open_gui:key.keyboard.j
+key_key.adventurez.activatearmor:key.keyboard.unknown
+key_key.bewitchment.transformation_ability:key.keyboard.unknown
+key_key.inmis.open_backpack:key.keyboard.unknown
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_minimap_settings:key.keyboard.y
+key_key.config:key.keyboard.unknown
+key_key.identity:key.keyboard.o
+key_key.identity_ability:key.keyboard.unknown
+key_key.campanion.open_backpack:key.keyboard.unknown

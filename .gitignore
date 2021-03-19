@@ -13,7 +13,7 @@ crash-reports/
 generated/
 logs/
 mods/
-options.txt
+/options.txt
 patchouli_data.json
 realms_persistence.json
 saves/
