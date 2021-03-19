@@ -26,7 +26,7 @@
 	food: {
 		// Calculates the food level bonus to earn from eating a food item
 		// default: hungerValue * 0.7 ^ timesEaten
-		hunger: hungerValue * 0.9 ^ timesEaten
+		hunger: hungerValue
 		// Calculates the saturation modifier for a food item
 		// default: saturationValue
 		saturation: saturationValue
