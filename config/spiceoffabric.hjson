@@ -51,7 +51,7 @@
 		// Specifies an expression for how many foods a player needs to eat to earn the next heart.
 		// The result resembles the absolute amount of unique food.
 		// default: 2*pow(2, heartAmount - 6)
-		unlock-rule: 3*(heartAmount - 9)
+		unlock-rule: 4*(heartAmount - 9)
 		// Specifies a maximum number of hearts a player can get to through this carrot mode.
 		// When 0, carrot mode is effectively disabled. (Why should you do this? :P)
 		// When -1, you can gain a basically infinite amount of hearts.
