@@ -41,7 +41,7 @@
 	# Min: 1
 	# Max: 2147483647
 	# Default: 8
-	location_search_radius = 8
+	location_search_radius = 16
 	# Causes a death chest to be forcibly placed at the location of a player's death if no suitable locations are found nearby.
 	# Default: true
 	force_placement_if_no_suitable_location = true

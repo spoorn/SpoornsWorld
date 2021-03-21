@@ -87,7 +87,7 @@
 			"asyncSearch": true,
 			// Declares how many entries should be grouped one async search.
 			"asyncSearchPartitionSize": 100,
-			"tooltipSearch": "ALWAYS",
+			"tooltipSearch": "PREFIX",
 			"tagSearch": "PREFIX",
 			"modSearch": "PREFIX"
 		},

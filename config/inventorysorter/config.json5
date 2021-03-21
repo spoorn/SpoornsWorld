@@ -6,7 +6,7 @@
 	// Enable second 'Sort' button in player inv
 	"seperateBtn": true,
 	// Sorting inv also sorts player inv
-	"sortPlayer": false,
+	"sortPlayer": true,
 	// Method of sorting, NAME,CATEGORY,MOD
 	"sortType": "NAME",
 	// Display Sort Button Tooltip

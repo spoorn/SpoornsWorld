@@ -1,6 +1,5 @@
 {
   "startingItem": "StartingHouse",
-  "maximumStartingHouseSize": 16,
   "enableLoftHouse": false,
   "includeSpawnersInMasher": true,
   "enableStructurePreview": true,

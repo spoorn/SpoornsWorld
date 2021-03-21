@@ -1,6 +1,6 @@
 {
   "isEnable": true,
-  "debug": true,
+  "debug": false,
   "BurnTime": "show",
   "Durability": "show",
   "Food": "show",
