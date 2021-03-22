@@ -33,6 +33,6 @@
     "maxGenHeight": 128
   },
   "shrubGenOptions": {
-    "spawnTries": 10
+    "spawnTries": 1
   }
 }

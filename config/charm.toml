@@ -164,7 +164,7 @@
 	#Allow opening the atlas while it is in the off hand.
 	"Open in off hand" = false
 	#Map scale used in atlases by default.
-	"Map scale" = 0
+	"Map scale" = 2
 
 [BatBuckets]
 	#Number of seconds that entities will receive the glowing effect.

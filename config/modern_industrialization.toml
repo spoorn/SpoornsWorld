@@ -2,11 +2,11 @@ generateOres = true
 
 [ores]
 generateAntimony = true
-generateBauxite = true
-generateCopper = true
-generateLead = true
+generateBauxite = false
+generateCopper = false
+generateLead = false
 generateLigniteCoal = true
-generateNickel = true
-generateSalt = true
-generateSilver = true
-generateTin = true
+generateNickel = false
+generateSalt = false
+generateSilver = false
+generateTin = false

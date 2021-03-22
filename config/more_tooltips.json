@@ -6,7 +6,7 @@
   "Food": "show",
   "NBT": "onShiftAndDebug",
   "ID": "onShift",
-  "MaxStackSize": "show",
+  "MaxStackSize": "onDebug",
   "TranslationKey": "onDebug",
   "RepairCost": "onShift",
   "Enchantability": "onShift",

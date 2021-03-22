@@ -320,9 +320,9 @@
     "maxInput": 4096.0
   },
   "modularWorkbench": {
-    "energyCost": 64.0,
+    "energyCost": 16.0,
     "processSpeed": 1.0,
-    "maxEnergyStored": 5000.0,
+    "maxEnergyStored": 500000.0,
     "maxInput": 4096.0
   },
   "laser": {

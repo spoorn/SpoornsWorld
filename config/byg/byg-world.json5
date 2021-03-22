@@ -26,7 +26,7 @@
 				/* 
 				   Generate ore?
 				*/
-				"Generate": true,
+				"Generate": false,
 				/* 
 				   Y level to start generating at.
 				   Default: 63
@@ -47,7 +47,7 @@
 				/* 
 				   Generate ore?
 				*/
-				"Generate": true,
+				"Generate": false,
 				/* 
 				   Y level to start generating at.
 				   Default: 63

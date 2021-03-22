@@ -34,10 +34,16 @@
     "expandWhenSneak": false,
     "forceRegistry": false,
     "colors": {
-      "megane": 7408640
+      "megane": 7408640,
+      "indrev": 3885790,
+      "techreborn": 8390656,
+      "appliedenergistics2": 6556063
     },
     "units": {
-      "megane": "E"
+      "megane": "E",
+      "indrev": "LF",
+      "techreborn": "E",
+      "appliedenergistics2": "AE"
     },
     "blacklist": [
       "appliedenergistics2:energy_acceptor"
@@ -48,7 +54,8 @@
     "expandWhenSneak": false,
     "forceRegistry": false,
     "colors": {
-      "megane:default": 855385
+      "megane:default": 855385,
+      "techreborn:methane": 8917592
     },
     "blacklist": []
   },

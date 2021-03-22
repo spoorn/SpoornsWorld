@@ -12,8 +12,7 @@
   "noiseModifiers": [
     "MOUNTAINS",
     "RIDGES",
-    "DETAILS",
-    "RIVERS"
+    "DETAILS"
   ],
   "mainOctaveAmount": 3,
   "mainFrequency": 3200.0,

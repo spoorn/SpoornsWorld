@@ -114,7 +114,7 @@
   "solarPanelQuantum": {
     "quantumNightRate": {
       "comment": "Generation rate during night for Quantum Solar Panel (Value in FE)",
-      "value": 16
+      "value": 32
     },
     "quantumDayRate": {
       "comment": "Generation rate during day for Quantum Solar Panel (Value in FE)",
@@ -124,7 +124,7 @@
   "solarPanelIndustrial": {
     "industrialNightRate": {
       "comment": "Generation rate during night for Industrial Solar Panel (Value in FE)",
-      "value": 1
+      "value": 2
     },
     "industrialDayRate": {
       "comment": "Generation rate during day for Industrial Solar Panel (Value in FE)",

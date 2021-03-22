@@ -12,7 +12,7 @@ snowDungeonAttemptsPerChunk = 8
 swampDungeonAttemptsPerChunk = 8
 endDungeonAttemptsPerChunk = 8
 netherDungeonAttemptsPerChunk = 8
-oceanDungeonAttemptsPerChunk = 5
+oceanDungeonAttemptsPerChunk = 6
 
 [RSDungeonsConfig.minHeight]
 badlandsDungeonMinHeight = 2
@@ -48,10 +48,10 @@ blacklistedBoulderBiomes = ""
 boulderTiny = true
 boulderGiant = true
 diamondChanceInGiantBoulders = 7000
-giantBouldersPerChunk = 0.5
+giantBouldersPerChunk = 1.0
 
 [RSMainConfig.jungleFortress]
-jungleFortressMaxChunkDistance = 50
+jungleFortressMaxChunkDistance = 32
 addJungleFortressToModdedBiomes = true
 blacklistedFortressBiomes = ""
 silverfishSpawnrate = 0.5
@@ -94,13 +94,13 @@ addNetherSoulTempleToModdedBiomes = false
 blacklistedPyramidBiomes = ""
 netherPyramidMaxChunkDistance = 37
 addNetherPyramidToModdedBiomes = true
-badlandsPyramidMaxChunkDistance = 37
+badlandsPyramidMaxChunkDistance = 20
 addBadlandsPyramidToModdedBiomes = true
 pyramidSnowyMaxChunkDistance = 37
 addPyramidSnowyToModdedBiomes = true
 [RSMineshaftsConfig]
 lootChestsMS = true
-addMineshaftsToModdedBiomes = true
+addMineshaftsToModdedBiomes = false
 blacklistedMineshaftBiomes = ""
 
 [RSMineshaftsConfig.spawnrate]
@@ -119,17 +119,17 @@ crimsonMineshaftSpawnrate = 40
 warpedMineshaftSpawnrate = 40
 
 [RSMineshaftsConfig.minHeight]
-birchMineshaftMinHeight = 8
-jungleMineshaftMinHeight = 8
-desertMineshaftMinHeight = 8
-stoneMineshaftMinHeight = 8
-savannaMineshaftMinHeight = 8
-icyMineshaftMinHeight = 8
-oceanMineshaftMinHeight = 8
-taigaMineshaftMinHeight = 8
-swampAndDarkForestMineshaftMinHeight = 8
+birchMineshaftMinHeight = 5
+jungleMineshaftMinHeight = 5
+desertMineshaftMinHeight = 5
+stoneMineshaftMinHeight = 5
+savannaMineshaftMinHeight = 5
+icyMineshaftMinHeight = 5
+oceanMineshaftMinHeight = 5
+taigaMineshaftMinHeight = 5
+swampAndDarkForestMineshaftMinHeight = 5
 endMineshaftMinHeight = 30
-netherMineshaftMinHeight = 8
+netherMineshaftMinHeight = 5
 crimsonMineshaftMinHeight = 8
 warpedMineshaftMinHeight = 8
 
@@ -183,19 +183,19 @@ addWarpedOutpostToModdedBiomes = true
 crimsonOutpostMaxChunkDistance = 34
 addCrimsonOutpostToModdedBiomes = true
 addOutpostBirchToModdedBiomes = true
-outpostBirchMaxChunkDistance = 45
+outpostBirchMaxChunkDistance = 39
 addOutpostJungleToModdedBiomes = true
-outpostJungleMaxChunkDistance = 45
+outpostJungleMaxChunkDistance = 39
 addOutpostGiantTreeTaigaToModdedBiomes = true
-outpostGiantTreeTaigaMaxChunkDistance = 45
+outpostGiantTreeTaigaMaxChunkDistance = 37
 addOutpostDesertToModdedBiomes = true
-outpostDesertMaxChunkDistance = 45
+outpostDesertMaxChunkDistance = 39
 addOutpostBadlandsToModdedBiomes = true
-outpostBadlandsMaxChunkDistance = 45
+outpostBadlandsMaxChunkDistance = 37
 addOutpostSnowyToModdedBiomes = true
-outpostSnowyMaxChunkDistance = 45
+outpostSnowyMaxChunkDistance = 39
 addOutpostIcyToModdedBiomes = true
-outpostIcyMaxChunkDistance = 41
+outpostIcyMaxChunkDistance = 37
 addOutpostTaigaToModdedBiomes = true
 outpostTaigaMaxChunkDistance = 45
 addOutpostOakToModdedBiomes = true
@@ -203,16 +203,16 @@ outpostOakMaxChunkDistance = 45
 [RSVillagesConfig]
 addVillagesToModdedBiomes = true
 blacklistedVillageBiomes = ""
-badlandsVillageMaxChunkDistance = 30
-birchVillageMaxChunkDistance = 38
-darkForestVillageMaxChunkDistance = 38
-jungleVillageMaxChunkDistance = 38
-swampVillageMaxChunkDistance = 38
-mountainsVillageMaxChunkDistance = 38
-giantTaigaVillageMaxChunkDistance = 38
+badlandsVillageMaxChunkDistance = 23
+birchVillageMaxChunkDistance = 31
+darkForestVillageMaxChunkDistance = 31
+jungleVillageMaxChunkDistance = 29
+swampVillageMaxChunkDistance = 31
+mountainsVillageMaxChunkDistance = 31
+giantTaigaVillageMaxChunkDistance = 29
 crimsonVillageMaxChunkDistance = 30
 warpedVillageMaxChunkDistance = 30
-villageOakMaxChunkDistance = 38
+villageOakMaxChunkDistance = 33
 [RSWellsConfig]
 addWellsToModdedBiomes = true
 blacklistedWellBiomes = ""

@@ -8,7 +8,7 @@
 	// Should mine diagonally
 	"mineDiag": true,
 	// Maximum number of blocks to mine
-	"maxMinedBlocks": 40,
+	"maxMinedBlocks": 30,
 	// Maximum distance from start to mine
 	"maxMineDistance": 10,
 	// Automatically pick up drops
