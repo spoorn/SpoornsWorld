@@ -10,5 +10,5 @@
 	// Whether or not rain should have a red-tinted texture during a crimson moon.
 	"customRainTexture": true,
 	// Chance to spawn a crimson moon every night. 20 is approximately one crimson moon every 20 days.
-	"crimsonMoonChance": 100
+	"crimsonMoonChance": 25
 }

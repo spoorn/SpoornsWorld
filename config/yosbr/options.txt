@@ -29,7 +29,9 @@ key_key.bewitchment.transformation_ability:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.unknown
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_minimap_settings:key.keyboard.y
+key_gui.xaero_new_waypoint:key.keyboard.unknown
 key_key.config:key.keyboard.unknown
 key_key.identity:key.keyboard.o
 key_key.identity_ability:key.keyboard.unknown
 key_key.campanion.open_backpack:key.keyboard.unknown
+key_key.fedora.hatmenu:key.keyboard.comma

@@ -3,7 +3,7 @@
   "requiredItem": "battletowers:boss_key",
   "bossHP": 250,
   "bossAttack": 5,
-  "towerSpacing": 32,
-  "towerSeparation": 24,
+  "towerSpacing": 40,
+  "towerSeparation": 32,
   "maxHeight": 125
 }
