@@ -1,1 +1,16 @@
-{ }
+{
+	"waterConfig": {
+		// True if this mod should override the native fog density of water with below configured value [default = false]
+		"shouldOverrideWaterFogDensity": false,
+		// Fog density for water [0.0 to 1.0; 0 means no fog, 1 is full fog density] [default = 0.01] [vanilla = 0.05]
+		"waterFogDensity": 0.01
+	},
+	"lavaConfig": {
+		// True if this mod should override the native fog density of lava with below configured values [default = true]
+		"shouldOverrideLavaFogDensity": true,
+		// True if Lava should have no fog at all.  False to control fog density on configurations below [default = false
+		"shouldCompletelySeeThroughLava": false,
+		// Factor for lava fog see-through.  Higher values means you can see more [default = 60] [min = 0; max = 150]
+		"lavaSeeThroughFactor": 60.0
+	}
+}

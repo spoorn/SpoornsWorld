@@ -35,6 +35,7 @@
 			"enableLv25Buff": true
 		},
 		"mining": { 
+			"effectLevelTrigger": 40,
 			"enableLv50Buff": true,
 			"enableLv25Buff": true
 		},

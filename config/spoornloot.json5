@@ -1,26 +1,34 @@
 {
 	"serverConfig": {
-		// Chance for swords to spawn in loot chests [1/value] [default = 10]
+		// Chance for swords to spawn in loot chests [1/value, 0 = no spawn] [default = 10]
 		"swordSpawnInLootChestsChance": 10,
-		// Chance for swords to get a crit chance attribute [1/value] [default = 10]
+		// Chance for swords to get a crit chance attribute [1/value, 0 = no spawn] [default = 10]
 		"critChanceChance": 10,
-		// Chance for swords to have a lightning enchantment [1/value] [default = 100]
+		// Chance for swords to have a lightning enchantment [1/value, 0 = no spawn] [default = 100]
 		"lightningAffinityChance": 100,
-		// Chance for swords to have fire damage [1/value] [default = 80]
+		// Chance for swords to have fire damage [1/value, 0 = no spawn] [default = 80]
 		"fireDamageChance": 80,
 		// Maximum fire damage for swords [default = 30]
 		"maxSwordFireDamage": 30,
-		// Chance for sword to have cold damage [1/value] [default = 80]
+		// Chance for sword to have cold damage [1/value, 0 = no spawn] [default = 80]
 		"coldChance": 80,
 		// Maximum cold damage for swords [default = 30]
 		"maxSwordColdDamage": 30,
-		// Chance for swords to have lifesteal [1/value] [default = 50]
+		// Chance for swords to have lifesteal [1/value, 0 = no spawn] [default = 50]
 		"lifestealChance": 1,
 		// Maximum lifesteam for swords [default = 30]
 		"maxLifesteal": 30,
-		// Chance for sword to be Explosive [1/value] [default = 200]
+		// Chance for sword to be Explosive [1/value, 0 = no spawn] [default = 200]
 		"explosiveChance": 200,
 		// This is how much we scale the damage of the offhand weapon when dual wielding [1/value] [default = 2 (50%)]
-		"dualWieldDamageScale": 2
+		"dualWieldDamageScale": 2,
+		// Block radius range of Heart Sword Charm effect on entities [default = 20]
+		"heartSwordCharmRadius": 20,
+		// Charm effect duration in seconds [default = 10]
+		"charmEffectDuration": 10,
+		// Charm effect cooldown in seconds [default = 30]
+		"charmEffectCooldown": 30,
+		// True if Heart Sword Charm should affect other players, else false (EXPERIMENTAL) [default = false]
+		"shouldCharmAffectPlayers": false
 	}
 }
