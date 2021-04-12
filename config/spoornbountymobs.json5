@@ -13,6 +13,8 @@
 	"playerBonusDamagePerBountyHunterTier": 0.5,
 	// Percentage of player's Bounty score LOST on death [default = 20, min=0, max=100]
 	"playerDeathBountyScorePenalty": 20.0,
+	// Set to false if you don't want potion particle effects on HUD from Bounty mob attacks [default = true]
+	"showBountyParticleEffects": true,
 	// Common tier bounty mobs
 	"COMMON_TIER": {
 		// Spawn weight of this tier (higher number is higher chance of spawn) [default = 20]
